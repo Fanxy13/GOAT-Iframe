@@ -45,9 +45,6 @@ Mit `modus=simpel` erscheint nur die Ziege, der Hintergrund bleibt durchsichtig.
 
 **Ohne eigenen Server:** Aktiviere GitHub Pages für dieses Repository (Settings → Pages → Branch `main`). Danach kannst du diese Adresse als `src` verwenden:
 
-```text
-https://<dein-name>.github.io/ziegen-buddy/ziegen-buddy.html?modus=simpel
-```
 
 ### Einstellungen
 
@@ -130,5 +127,4 @@ Normale Nachrichten beantwortet sie auch, und `Esc` unterbricht, was sie gerade 
 - Bei `prefers-reduced-motion` fallen Wackeln und Bildschirmschütteln weg.
 
 ## Lizenz
-
 MIT
