@@ -6,7 +6,7 @@
 
 Eine winzige Pixel-Ziege als Haustier für deine Website. Sie läuft herum, grast, klettert auf Felsen, meckert und lässt sich streicheln. Alles steckt in einer einzigen HTML-Datei, ohne Abhängigkeiten.
 
-Inspiriert vom `/buddy`-Begleiter in Claude Code. Ein inoffizielles Fanprojekt, das nichts mit Anthropic zu tun hat.
+Inspiriert vom `/buddy`-Begleiter in Claude Code.
 
 ## Was sie kann
 
