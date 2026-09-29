@@ -94,6 +94,7 @@ Mit `modus=simpel` erscheint nur die Ziege, der Hintergrund bleibt durchsichtig.
 - **Datenschutz:** Der Simpel-Modus lädt nichts von fremden Servern. Der normale Modus holt die Schriften DM Mono und Pixelify Sans von Google Fonts.
 - **Speicher:** Name, Hut und Hunger landen im `localStorage` des Besuchers. Mit `speichern=nein` bleibt nichts im Browser.
 - **Handy:** Wischen über die Wiese scrollt die Seite weiter. Nur die Ziege selbst lässt sich packen.
+- Öffne das Iframe Menü mit dem = Zeichen und konfigurieren sie die Ziege anschliessend können sie den Text unten Kopieren
 
 ## Befehle im normalen Modus
 
